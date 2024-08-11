@@ -13,9 +13,21 @@ AirbnbClone is a modern iOS application that replicates the core functionality o
 
 ## Screenshots
 
-![Home Screen](https://github.com/user-attachments/assets/127c08c4-8dd6-4011-bbcb-2188ea4a6bc0)
-![Search Results](https://github.com/user-attachments/assets/1934cfae-29c8-4e41-a8d8-5f938985fbc9)
-![Map View](https://github.com/user-attachments/assets/84d2f89a-f60f-4e04-90ab-2cba0f45a848)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/127c08c4-8dd6-4011-bbcb-2188ea4a6bc0" width="200" alt="Home Screen"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1934cfae-29c8-4e41-a8d8-5f938985fbc9" width="200" alt="Search Results"/></td>
+    <td><img src="https://github.com/user-attachments/assets/62bb851a-6533-4ad3-8cdc-3a050f9c5450" width="200" alt="Property Details"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fb85ce24-4462-4d80-b6e2-e239a0121404" width="200" alt="Booking Calendar"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3335826a-71ba-44b1-84cd-0ea462e92512" width="200" alt="Filter Options"/></td>
+    <td><img src="https://github.com/user-attachments/assets/84d2f89a-f60f-4e04-90ab-2cba0f45a848" width="200" alt="Map View"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bb7c463f-07f3-4de8-a530-32e6cce962ae" width="200" alt="User Profile"/></td>
+  </tr>
+</table>
 
 ## Technologies Used
 
